@@ -21,7 +21,7 @@ return(
     <button className='circle text-left circle-sm' onClick={quantInc}>+</button>
     </div>
     <div>
-      <button className='button button-primary' style={{marginLeft:'20px',fontSize:'25px'}} >  Add to cart</button>
+      <button className='button button-primary' style={{marginLeft:'20px',fontSize:'25px'}} >  Add to carts</button>
     </div>
   </>
 
